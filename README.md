@@ -6,9 +6,9 @@ web3store is an web3.0 e-commerce website made using react. It uses 'moralisapi'
 
 
 
-## Demo
+## HomePage
 
-![alt text](http://url/to/Home.png)
+![Home](https://github.com/zakm7/FYProject-Grp12/assets/73174780/92556a7b-1030-476b-8079-2bf8af93a27d)
 
 ## Deployment
 
